@@ -89,7 +89,7 @@
     "hash.js": "^1.1.7",
     "js-sha3": "^0.8.0",
     "scrypt-js": "^3.0.1",
-    "uuid": "^3.4.0"
+    "uuid": "^8.3.2"
   },
   "workspaces": [
     "sdk/*"
