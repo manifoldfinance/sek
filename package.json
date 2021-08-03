@@ -70,7 +70,7 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "chai": "^4.2.0",
     "dts-bundle": "^0.7.3",
-    "jest": "^26.2.2",
+    "jest": "^27.0.6",
     "lerna": "^4.0.0",
     "minimist": ">=1.2.2",
     "mocha": "^8.1.0",
